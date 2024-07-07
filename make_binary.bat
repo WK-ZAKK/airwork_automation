@@ -1,0 +1,1 @@
+pyinstaller --onefile automation_human_resources.py
